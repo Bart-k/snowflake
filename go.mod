@@ -1,3 +1,3 @@
-module github.com/ws13368/snowflake
+module github.com/bart-k/snowflake
 
 go 1.23.0
